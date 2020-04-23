@@ -1,0 +1,1 @@
+<iframe src="http://files.patchesoft.com/development/propolls/polls/ajax_poll/1/4d009a995b7a463d75ddf9b061848657" width="400" height="600" frameborder="0" ></iframe>
